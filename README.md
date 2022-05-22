@@ -1,2 +1,2 @@
 # Usage
-python3 subdomain.py example.com
+`python3 subdomain.py example.com`
